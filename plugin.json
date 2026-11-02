@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Opens warm contact with a delivered goodwill asset \u2014 a finding, a teardown, an introduction \u2014 sized to that person's one true specific.",
+  "keywords": [
+    "goodwill",
+    "kairos",
+    "opener",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-goodwill-opener",
+  "repository": "https://github.com/baselam88/kairos-goodwill-opener-plugin",
+  "version": "0.1.0"
+}
